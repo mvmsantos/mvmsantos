@@ -3,13 +3,6 @@
 - 🔭 E hoje eu sou um **Desenvolvedor Full-stack!**
 - 💘 As tecnologias nas quais estou focado e estudando no momento são **PHP e Node/React.js**.
 - 📚 Sou graduando em **Sistemas da Informação💻** e possuo formação **Técnica em Eletrônica ⚙️**.
-<br>
-
-<p align="center">
-  Busco constantemente conhecimento e sabedoria. Como desenvolvedor, estou comprometido em aprender e aprimorar minhas habilidades, com o objetivo máximo de     resolver problemas e impactar positivamente a vida das pessoas, utilizando a tecnologia a nosso favor.
-</p>
-<br>
-
 ### 🚀 Principais técnologias!
   <br>
   <div align="flex-start">
@@ -36,9 +29,18 @@
       <img alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <strong>:</strong>
       <img alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img alt="Marcos-TailW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     </li>
   </div>
-
+ 
+  ### Outras! 👍
+  <div style="display: inline_block"><br>
+    <img alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img alt="Marcos-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  </div>
 <!--
 <div align="flex-start">
   <img alt="Marcos-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
