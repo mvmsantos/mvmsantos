@@ -41,5 +41,11 @@
     <img alt="Marcos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img alt="Marcos-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   </div>
+  <br>
+  
+  <div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+  <a href="https://github.com/mvmsantos">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvmsantos&show_icons=true&theme=dracula&count_private=true"/>
+  </div>
   
   ![Snake animation](https://github.com/mvmsantos/mvmsantos/blob/output/github-contribution-grid-snake.svg)
