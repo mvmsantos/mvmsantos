@@ -2,7 +2,7 @@
 
 - 🔭 E hoje eu sou um **Desenvolvedor Full-stack!**
 - 💘 As tecnologias nas quais estou focado e estudando no momento são **PHP e Node/React.js**.
-- 📚 Sou graduando em **Sistemas da Informação💻** e possuo formação **Técnica em Eletrônica ⚙️**.
+- 📚 Sou graduando em **Sistemas da Informação💻** e possuo formação **Técnica em Eletrônica⚡**.
 ### 🚀 Principais técnologias!
   <br>
   <div align="flex-start">
